@@ -1,0 +1,15 @@
+#portfolio img {
+    width: 100%;
+    height: auto;
+}
+
+.image img {
+    width: 100%;
+    height: auto;    
+}
+
+.small img {
+    width: 25%;
+    height: auto; 
+    float: left;
+}
